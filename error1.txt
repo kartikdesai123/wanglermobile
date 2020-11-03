@@ -1,0 +1,1 @@
+[Sun Aug 18 13:49:13.518045 2019] [php7:error] [pid 8456:tid 2012] [client 127.0.0.1:61348] PHP Fatal error:  Cannot use Illuminate\\Support\\Facades\\Hash as Hash because the name is already in use in C:\\xampp\\htdocs\\waglerapp\\app\\Http\\Controllers\\LoginController.php on line 9, referer: http://localhost.waglerapp.com/login
